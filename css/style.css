@@ -64,7 +64,6 @@ main.container{
 }
 
 #thankYouModal .modal-content{
-    background-image: url("imgs/gif.gif");
     background-position:center;
     background-size:cover;
     background-repeat:no-repeat;
