@@ -56,11 +56,6 @@ main.container{
     font-size:0.9rem;
     border-radius:6px;
 }
-#thankYouModal .modal-content{
-    background:transparent;
-    border:none;
-    box-shadow:none;
-}
 
 #thankYouModal .modal-body{
     background :rgba(0,0,0,0.4);
@@ -68,7 +63,7 @@ main.container{
     border-radius:10px; 
 }
 
-#thankYouModal .modal-dialog{
+#thankYouModal .modal-content{
     background-image: url("imgs/gif.gif");
     background-position:center;
     background-size:cover;
