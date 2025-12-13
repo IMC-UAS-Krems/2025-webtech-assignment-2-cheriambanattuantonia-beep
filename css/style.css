@@ -60,7 +60,10 @@ main.container{
 }
 
 #thankYouModal .modal-dialog{
-    background: url("imgs/gif.gif")center/cover no-repeat;
+    background: url("imgs/gif.gif");
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
     padding:20px;
     border-radius:12px;
 }
